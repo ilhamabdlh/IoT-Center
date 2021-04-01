@@ -1,5 +1,8 @@
 # fully finish
 
+## Ratio of Temperature and Humidity Task 3 point 1
+![ratio-of-temperature-and](https://user-images.githubusercontent.com/72017753/113230929-48597680-92c4-11eb-86b8-4db4390a4236.jpeg)
+
 ##Salary Conversion (1 program file)
 o Fetch data from http://jsonplaceholder.typicode.com/users
 o Join the fetched data with salary data from JSON file by using id
